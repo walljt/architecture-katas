@@ -32,8 +32,8 @@ Want to run the Architectural Katas yourself? There’s only a few things you ne
 
 ## Start Practicing
 
-No time like the present to get started. Don't worry about gettin  [Read on the original site »](https://archkatas.herokuapp.com/lead.html)
+No time like the present to get started. Don't worry if you have the jitters the first time, as practice makes perfect.  [Start a Kata on »](https://archkatas.herokuapp.com/lead.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzODc5MzYyNSwxNDA3NTIzMjc2LDE5ND
+eyJoaXN0b3J5IjpbMTMzOTcxMzEwNSwxNDA3NTIzMjc2LDE5ND
 I4OTgwMTUsMTEzNTQwMzk5NSw5ODAyOTI5MjddfQ==
 -->
