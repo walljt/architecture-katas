@@ -38,9 +38,11 @@ No time like the present to get started. Don't worry if you have the jitters the
 This Herokuapp will from Ted Neward will generate a random kata for you.  [Start practicing»](https://archkatas.herokuapp.com/kata.html)
 
 ### From a List
-Take a look at some of the predifined 
+Take a look at some of the predefined katas from both Neal Ford and this work-space.
+[Chose ]
+(http://nealford.com/katas/list.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzOTI4MDgyMCwtMTM4Nzg0MzM4MCwxND
-A3NTIzMjc2LDE5NDI4OTgwMTUsMTEzNTQwMzk5NSw5ODAyOTI5
-MjddfQ==
+eyJoaXN0b3J5IjpbLTE5NTM3NDkwNzMsLTEzODc4NDMzODAsMT
+QwNzUyMzI3NiwxOTQyODk4MDE1LDExMzU0MDM5OTUsOTgwMjky
+OTI3XX0=
 -->
