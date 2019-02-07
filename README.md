@@ -32,8 +32,15 @@ Want to run the Architectural Katas yourself? There’s only a few things you ne
 
 ## Start Practicing
 
-No time like the present to get started. Don't worry if you have the jitters the first time, as practice makes perfect. This Herokuapp will from Ted Neward will generate a random kata for you.  [Start practicing»](https://archkatas.herokuapp.com/kata.html)
+No time like the present to get started. Don't worry if you have the jitters the first time, as practice makes perfect. 
+
+### Random
+This Herokuapp will from Ted Neward will generate a random kata for you.  [Start practicing»](https://archkatas.herokuapp.com/kata.html)
+
+### From a List
+Take a look at some of the predifined 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODc4NDMzODAsMTQwNzUyMzI3NiwxOT
-QyODk4MDE1LDExMzU0MDM5OTUsOTgwMjkyOTI3XX0=
+eyJoaXN0b3J5IjpbLTIzOTI4MDgyMCwtMTM4Nzg0MzM4MCwxND
+A3NTIzMjc2LDE5NDI4OTgwMTUsMTEzNTQwMzk5NSw5ODAyOTI5
+MjddfQ==
 -->
