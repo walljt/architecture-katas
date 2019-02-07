@@ -39,10 +39,10 @@ This Herokuapp will from Ted Neward will generate a random kata for you.  [Start
 
 ### From a List
 Take a look at some of the predefined katas from both Neal Ford and this work-space.
-[Chose ]
+[Start practicing»](http://nealford.com/katas/list.html)
 (http://nealford.com/katas/list.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTM3NDkwNzMsLTEzODc4NDMzODAsMT
-QwNzUyMzI3NiwxOTQyODk4MDE1LDExMzU0MDM5OTUsOTgwMjky
-OTI3XX0=
+eyJoaXN0b3J5IjpbMjI0MzEzMTUyLC0xMzg3ODQzMzgwLDE0MD
+c1MjMyNzYsMTk0Mjg5ODAxNSwxMTM1NDAzOTk1LDk4MDI5Mjky
+N119
 -->
