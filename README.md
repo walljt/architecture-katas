@@ -30,7 +30,10 @@ Doing an Architectural Kata requires you to obey a few rules in order to get the
 
 Want to run the Architectural Katas yourself? There’s only a few things you need to know before you do. Ted Neward, the originator of Architectural Katas, has information on his site about leading Katas exercises.  [Read on the original site »](https://archkatas.herokuapp.com/lead.html)
 
+## Start
+
+No time like the present to get started  [Read on the original site »](https://archkatas.herokuapp.com/lead.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwNzUyMzI3NiwxOTQyODk4MDE1LDExMz
-U0MDM5OTUsOTgwMjkyOTI3XX0=
+eyJoaXN0b3J5IjpbMTE1MzkwMjI2OCwxNDA3NTIzMjc2LDE5ND
+I4OTgwMTUsMTEzNTQwMzk5NSw5ODAyOTI5MjddfQ==
 -->
